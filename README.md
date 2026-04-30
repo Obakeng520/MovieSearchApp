@@ -4,7 +4,7 @@
 
 A modern, responsive movie discovery application featuring a cinematic user interface. Users can search for specific titles, browse trending movies, filter by mood/genre, and save their favorite picks directly to their browser.
 
-**[🚀 View Live Demo]([(https://movie-search-9mtj3jiwq-obakeng520s-projects.vercel.app/)])**
+**[🚀 View Live Demo][(https://movie-search-9mtj3jiwq-obakeng520s-projects.vercel.app/)]**
 
 ---
 
